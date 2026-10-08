@@ -1,0 +1,38 @@
+[
+  {
+    "id": "integration",
+    "title": "Institutional integration matrix",
+    "description": "Research dimensions and analytical objects mapped at institution level.",
+    "url": "posters/integration.html"
+  },
+  {
+    "id": "methods",
+    "title": "Methods and shared dimensions",
+    "description": "Institutional nodes connected to each dimension of the common data model.",
+    "url": "posters/methods.html"
+  },
+  {
+    "id": "competences",
+    "title": "Competence transfer matrix",
+    "description": "Initial strategic priorities and proposed country roles for competence transfer.",
+    "url": "posters/competences.html"
+  },
+  {
+    "id": "packages",
+    "title": "Six mixed transfer packages",
+    "description": "Every package starts in Year 1; later schools develop cross-method exchange and train-the-trainer activities.",
+    "url": "posters/packages.html"
+  },
+  {
+    "id": "coordination",
+    "title": "Adaptive coordination and calendar",
+    "description": "Study → planning → organisation → execution → control, with adjustment decisions by the Management Committee.",
+    "url": "posters/coordination.html"
+  },
+  {
+    "id": "monitoring",
+    "title": "Capacity targets and monitoring",
+    "description": "Proposed participation targets and measurement points; unique people must be counted separately from repeated attendance.",
+    "url": "posters/monitoring.html"
+  }
+]
