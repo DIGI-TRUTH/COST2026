@@ -34,5 +34,19 @@
     "title": "Capacity targets and monitoring",
     "description": "Proposed participation targets and measurement points; unique people must be counted separately from repeated attendance.",
     "url": "posters/monitoring.html"
+  },
+  {
+    "id": "gantt-summary",
+    "title": "Gantt summary",
+    "description": "Quarterly view of coordination, capacity building, research coordination and impact.",
+    "url": "posters/gantt-summary.html",
+    "width": 1600
+  },
+  {
+    "id": "gantt-detailed",
+    "title": "Gantt detailed",
+    "description": "Monthly schedule of assessments, transfer packages, Training Schools and deliverables.",
+    "url": "posters/gantt-detailed.html",
+    "width": 2500
   }
 ]
