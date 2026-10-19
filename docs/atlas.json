@@ -20,13 +20,13 @@
   {
     "id": "packages",
     "title": "Six mixed transfer packages",
-    "description": "Every package starts in Year 1; later schools develop cross-method exchange and train-the-trainer activities.",
+    "description": "Six reciprocal skills-learning pathways across four Working Groups; mobility, mentoring and four Training Schools.",
     "url": "posters/packages.html"
   },
   {
     "id": "coordination",
-    "title": "Adaptive coordination and calendar",
-    "description": "Study → planning → organisation → execution → control, with adjustment decisions by the Management Committee.",
+    "title": "Governance, management and coordination",
+    "description": "Who decides, who prepares and who delivers; dedicated management support and a shared annual cycle.",
     "url": "posters/coordination.html"
   },
   {
@@ -38,15 +38,15 @@
   {
     "id": "gantt-summary",
     "title": "Gantt summary",
-    "description": "Quarterly view of coordination, capacity building, research coordination and impact.",
+    "description": "Quarterly plan aligned with the four-WG proposal and its deliverable dates.",
     "url": "posters/gantt-summary.html",
-    "width": 1600
+    "width": 1800
   },
   {
     "id": "gantt-detailed",
     "title": "Gantt detailed",
-    "description": "Monthly schedule of assessments, transfer packages, Training Schools and deliverables.",
+    "description": "Monthly activities, Training School windows, responsibilities and all deliverable dates.",
     "url": "posters/gantt-detailed.html",
-    "width": 2500
+    "width": 3100
   }
 ]
