@@ -1,5 +1,11 @@
 [
   {
+    "id": "objectives",
+    "title": "Scientific and capacity-building objectives",
+    "description": "Research objectives, multilingual validation, mitigation and capacity-building targets.",
+    "url": "posters/objectives.html"
+  },
+  {
     "id": "integration",
     "title": "Institutional integration matrix",
     "description": "Research dimensions and analytical objects mapped at institution level.",
