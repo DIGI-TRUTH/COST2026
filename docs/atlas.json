@@ -54,5 +54,11 @@
     "description": "Monthly activities, Training School windows, responsibilities and all deliverable dates.",
     "url": "posters/gantt-detailed.html",
     "width": 3100
+  },
+  {
+    "id": "benchmarks",
+    "title": "Comparative learning",
+    "description": "Mechanisms from previous COST networks and evidence gates within the existing plan.",
+    "url": "posters/benchmarks.html"
   }
 ]
